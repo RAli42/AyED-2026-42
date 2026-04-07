@@ -1,5 +1,0 @@
-C:\Users\Lab AyED\Documents\8_Ali\4_MiResta\bin\Debug\4_MiResta.exe.config
-C:\Users\Lab AyED\Documents\8_Ali\4_MiResta\bin\Debug\4_MiResta.exe
-C:\Users\Lab AyED\Documents\8_Ali\4_MiResta\bin\Debug\4_MiResta.pdb
-C:\Users\Lab AyED\Documents\8_Ali\4_MiResta\obj\Debug\4_MiResta.exe
-C:\Users\Lab AyED\Documents\8_Ali\4_MiResta\obj\Debug\4_MiResta.pdb

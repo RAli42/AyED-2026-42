@@ -1,6 +1,0 @@
-C:\Users\Lab AyED\Documents\8_Ali\3_MiSuma\bin\Debug\3_MiSuma.exe.config
-C:\Users\Lab AyED\Documents\8_Ali\3_MiSuma\bin\Debug\3_MiSuma.exe
-C:\Users\Lab AyED\Documents\8_Ali\3_MiSuma\bin\Debug\3_MiSuma.pdb
-C:\Users\Lab AyED\Documents\8_Ali\3_MiSuma\obj\Debug\3_MiSuma.csprojResolveAssemblyReference.cache
-C:\Users\Lab AyED\Documents\8_Ali\3_MiSuma\obj\Debug\3_MiSuma.exe
-C:\Users\Lab AyED\Documents\8_Ali\3_MiSuma\obj\Debug\3_MiSuma.pdb
