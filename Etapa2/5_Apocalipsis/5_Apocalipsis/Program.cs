@@ -10,22 +10,43 @@ namespace _5_Apocalipsis
     {
         static void Main(string[] args)
         {
+            bool refu = false;
+            bool comi = false;
+            bool bate = false;
+            bool agua = false;
+            bool mochila = false;
+            bool boti = false;
             int contador = 0;
             Console.WriteLine("Tiene un refugio? (si/no)");
             if(Console.ReadLine().ToLower() == "si")
             {
-                bool refu = true;
+                refu = true;
             }
             Console.WriteLine("Tiene comida? (true/false)");
-            bool comi = bool.Parse(Console.ReadLine());
+            if (Console.ReadLine().ToLower() == "si")
+            {
+                comi = true;
+            }
             Console.WriteLine("Tiene un bate? (true/false)");
-            bool bate = bool.Parse(Console.ReadLine());
-            Console.WriteLine("Tiene agua? (true/false)");
-            bool agua = bool.Parse(Console.ReadLine());
+            if (Console.ReadLine().ToLower() == "si")
+            {
+                bate = true;
+            }
+            Console.WriteLine("Tiene agua? (si/no)");
+            if (Console.ReadLine().ToLower() == "si")
+            {
+                agua = true;
+            }
             Console.WriteLine("Tiene una mochila? (true/false)");
-            bool mochila = bool.Parse(Console.ReadLine());
+            if (Console.ReadLine().ToLower() == "si")
+            {
+                mochila = true;
+            }
             Console.WriteLine("Tiene un botiquin? (true/false)");
-            bool boti = bool.Parse(Console.ReadLine());
+            if (Console.ReadLine().ToLower() == "si")
+            {
+                boti = true;
+            }
             if ((refu == true ) || (mochila == true))
             {
                 contador = contador + 1;
