@@ -70,7 +70,7 @@ namespace _19_Simulador_Blackjack
                             Console.WriteLine("Te salió K (10)");
                             puntajeCarta = 10;
                         }
-                        else if (carta == a)
+                        else if (carta == 14)
                         {
                             Console.WriteLine("Te salió As (1/11)");
                             asActivadoJugador = true;
