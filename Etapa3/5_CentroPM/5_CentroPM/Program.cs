@@ -270,6 +270,12 @@ namespace _5_CentroPM
                         Console.WriteLine("Aprete una tecla para continuar");
                         Console.ReadKey();
                         break;
+                    default:
+                        Console.WriteLine("Opcion incorrecta");
+                        Console.WriteLine("");
+                        Console.WriteLine("Aprete una tecla para continuar");
+                        Console.ReadKey();
+                        break;
                 }  
             }
 
