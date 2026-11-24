@@ -8,7 +8,7 @@ namespace Menu
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Calculadora(string[] args)
         {
             int opcion = 2;
             switch (opcion)

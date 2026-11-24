@@ -3,3 +3,9 @@ C:\Users\Lab AyED\Documents\8_Ali\16_DatosPersonales\16_DatosPersonales\bin\Debu
 C:\Users\Lab AyED\Documents\8_Ali\16_DatosPersonales\16_DatosPersonales\bin\Debug\16_DatosPersonales.pdb
 C:\Users\Lab AyED\Documents\8_Ali\16_DatosPersonales\16_DatosPersonales\obj\Debug\16_DatosPersonales.exe
 C:\Users\Lab AyED\Documents\8_Ali\16_DatosPersonales\16_DatosPersonales\obj\Debug\16_DatosPersonales.pdb
+C:\Users\Lab AyED\Documents\8_Ali\AyED-2026-42\Etapa1\16_DatosPersonales\16_DatosPersonales\bin\Debug\16_DatosPersonales.exe.config
+C:\Users\Lab AyED\Documents\8_Ali\AyED-2026-42\Etapa1\16_DatosPersonales\16_DatosPersonales\obj\Debug\16_DatosPersonales.exe
+C:\Users\Lab AyED\Documents\8_Ali\AyED-2026-42\Etapa1\16_DatosPersonales\16_DatosPersonales\obj\Debug\16_DatosPersonales.pdb
+C:\Users\Lab AyED\Documents\8_Ali\AyED-2026-42\Etapa1\16_DatosPersonales\16_DatosPersonales\bin\Debug\16_DatosPersonales.exe
+C:\Users\Lab AyED\Documents\8_Ali\AyED-2026-42\Etapa1\16_DatosPersonales\16_DatosPersonales\bin\Debug\16_DatosPersonales.pdb
+C:\Users\Lab AyED\Documents\8_Ali\AyED-2026-42\Etapa1\16_DatosPersonales\16_DatosPersonales\obj\Debug\16_DatosPersonales.csprojResolveAssemblyReference.cache

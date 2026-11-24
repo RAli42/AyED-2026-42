@@ -17,7 +17,17 @@ static class Level2
     // Sumar p[i] para i % 3 == 0, solo si 0 <= p[i] <= 200
     public static int SumValidEveryThird(int[] p)
     {
-        // TODO: implementar
-        return 0; // <- reemplazar por tu solución
+        int suma = 0;
+        for (int i = 0; i < p.Length; i++)
+        {
+            if (i % 3 == 0)
+            {
+                if (0 <= p[i] && p[i] <= 200)
+                {
+                    suma = suma + p[i];
+                }
+            }
+        }
+        return suma;
     }
 }

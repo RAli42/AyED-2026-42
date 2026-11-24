@@ -10,7 +10,6 @@ namespace _1_AerolineasArgentinas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("envido");
             string nombre;
             string destino;
             int clase;

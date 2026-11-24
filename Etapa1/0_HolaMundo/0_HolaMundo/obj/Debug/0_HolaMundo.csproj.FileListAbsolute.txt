@@ -3,3 +3,6 @@ C:\Users\Lab AyED\Documents\8_Ali\0_HolaMundo\0_HolaMundo\bin\Debug\0_HolaMundo.
 C:\Users\Lab AyED\Documents\8_Ali\0_HolaMundo\0_HolaMundo\bin\Debug\0_HolaMundo.pdb
 C:\Users\Lab AyED\Documents\8_Ali\0_HolaMundo\0_HolaMundo\obj\Debug\0_HolaMundo.exe
 C:\Users\Lab AyED\Documents\8_Ali\0_HolaMundo\0_HolaMundo\obj\Debug\0_HolaMundo.pdb
+C:\Users\Lab AyED\Documents\8_Ali\AyED-2026-42\Etapa1\0_HolaMundo\0_HolaMundo\bin\Debug\0_HolaMundo.exe.config
+C:\Users\Lab AyED\Documents\8_Ali\AyED-2026-42\Etapa1\0_HolaMundo\0_HolaMundo\obj\Debug\0_HolaMundo.exe
+C:\Users\Lab AyED\Documents\8_Ali\AyED-2026-42\Etapa1\0_HolaMundo\0_HolaMundo\obj\Debug\0_HolaMundo.pdb
